@@ -61,7 +61,7 @@ print(f"Received {data!r}")
 print(f"Received {data!r}")
 ```
 ## OUTPUT:
+<img width="1920" height="1057" alt="image" src="https://github.com/user-attachments/assets/8862adcb-a638-4563-aa50-932b63f55686" />
 
-![alt text](image.png)
 ## RESULT:
 The program is executed successfully
